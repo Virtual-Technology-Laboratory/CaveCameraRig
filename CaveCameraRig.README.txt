@@ -1,0 +1,9 @@
+
+Cave Camera Rig
+========================
+
+Prefab Camera Rig for a 135 degree field of view comprised of three 4:3 
+projectors with the left and right screens oriented 45 degrees from center. 
+
+This project also contains a modified first person controller adapted for the 
+camera rig.
